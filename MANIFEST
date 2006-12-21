@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+README
+Syslog.pm
+MANIFEST
+t/1.t
+examples/syslog_generator.pl
+examples/syslog_listen.pl
+examples/syslog_parse.pl
+examples/syslog_send.pl
